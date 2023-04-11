@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sahana Durgekar</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on **Creating Websites and Knowledge Articles**
+- 🔭 I’m currently working on **Creating Websites and Knowledge Articles and Web Scraping**
 
 - 🌱 I’m currently learning **JavaScript**
 
