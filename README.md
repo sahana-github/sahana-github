@@ -5,10 +5,13 @@
 - 🔭 I’m currently working on **Creating Websites and Knowledge Articles and Web Scraping**
 
 - 🌱 I’m currently learning **JavaScript**
+- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sahana-github&show_icons=true&locale=en" alt="sahana-github" /></p>
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
 - 📫 How to reach me **sahanadurgekar18@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 
@@ -22,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahana-github&show_icons=true&locale=en&layout=compact" alt="sahana-github" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahana-github&show_icons=true&locale=en" alt="sahana-github" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahana-github&" alt="sahana-github" /></p>
