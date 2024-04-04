@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sahana Durgekar</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on **Creating  Knowledge Articles**
+- 🔭 Check out my new <p src="https://gemini-pro-chatbot-by-sahana.streamlit.app" alt="GeminiChatBot" /></p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Machine learning**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
