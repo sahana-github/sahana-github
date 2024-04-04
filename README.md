@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sahana Durgekar</h1>
 <h3 align="center"></h3>
 
-- 🔭 Check out my new <p src="https://gemini-pro-chatbot-by-sahana.streamlit.app" alt="GeminiChatBot" /></p>
+- 🔭 Check out my new <a href="https://gemini-pro-chatbot-by-sahana.streamlit.app" alt="GeminiChatBot" /></p>
 
 - 🌱 I’m currently learning **Machine learning**
 
